@@ -6,7 +6,7 @@
 [yh08037/gnbbai20201](https://github.com/yh08037/gnbai20201) repository를 본인의 github계정으로 fork합니다. (처음 한번만 하면 됩니다.)
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>클릭하여 사진 보기!</summary>
   
 ![getting_started_1.png](images/getting_started_1.png)
 ![getting_started_2.png](images/getting_started_2.png)
@@ -23,7 +23,7 @@ ex) lab1 과제 파일 이름이 gnbailab1.ipynb 일 때
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>클릭하여 사진 보기!</summary>
   
 ![getting_started_3.png](images/getting_started_3.png)
 ![getting_started_7.png](images/getting_started_7.png)
@@ -36,7 +36,7 @@ fork해온 '본인계정/gnbai20201' repository에서 "New Pull Request"를 클�
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>클릭하여 사진 보기!</summary>
   
 ![getting_started_9.png](images/getting_started_9.png)
 ![getting_started_10.png](images/getting_started_10.png)
